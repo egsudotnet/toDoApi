@@ -158,6 +158,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="api\DefaultController.cs" />
+    <Compile Include="api\test190414_2Controller.cs" />
+    <Compile Include="api\test190414_1Controller.cs" />
     <Compile Include="api\testController.cs" />
     <Compile Include="api\toDo2Controller.cs" />
     <Compile Include="api\toDoesController.cs" />
@@ -308,6 +310,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="images\" />
     <Folder Include="Views\Default\" />
+    <Folder Include="Views\test190414_1\" />
     <Folder Include="Views\test\" />
   </ItemGroup>
   <ItemGroup>
