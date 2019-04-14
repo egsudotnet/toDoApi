@@ -158,6 +158,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="api\DefaultController.cs" />
+    <Compile Include="api\test190414_4Controller.cs" />
     <Compile Include="api\test190414_3Controller.cs" />
     <Compile Include="api\test190414_2Controller.cs" />
     <Compile Include="api\test190414_1Controller.cs" />
